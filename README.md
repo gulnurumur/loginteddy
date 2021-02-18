@@ -1,6 +1,6 @@
 # loginteddy
 
-A new Flutter project.
+Animasyon kullanarak login tasarımı 
 
 ## Getting Started
 
